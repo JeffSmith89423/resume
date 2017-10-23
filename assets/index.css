@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-image:url("/assets/Grey-linen-texture-background/preview.jpg");
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    height: 10%;
+    width: 100%;
+    /* background-color: black; */
+    background-image:url("/assets/Grey-linen-texture-background/preview.jpg");
+}
+.jumbotron{
+    margin:10px;
+    /* background-color:RGB(241, 233, 210); */
+    background-color: #F8ECC2;
+
+}
+footer{
+    height: 10%;
+    width: 100%;
+    background-color: white;
+    
+}
+.title{
+    background-color:grey;
+    text-align: center;  
+    border-style: solid;  
+}
+.subtitle{
+    text-align: center;
+}
+.highlight{
+    background-color: gray;
+}
+
+
+
+/*.job{
+    background-color:grey;
+    text-align: center;
+}
+.selected-highlights .title{
+    text-align: center;
+    }
+.selected-highlights{
+        background-color: lightgray;
+    }
+.core-comp .title{
+    text-align: center;
+}
+.core-comp .title{
+    background-color:grey;
+    text-align: center;
+}
+.professional-exp{
+    background-color:grey;
+    text-align: center;
+}
+.subtitle{
+    
+    text-align: center;
+}
+.education{
+    text-align: center;
+}*/
